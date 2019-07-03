@@ -1,1 +1,3 @@
 Mi historia loca de git, ya no es tan loca
+
+estoy aprendiendo git
